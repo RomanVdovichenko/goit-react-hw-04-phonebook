@@ -15,6 +15,10 @@
   border-radius: 4px;
 }
 
+.btn:hover {
+  background-color: rgb(4, 88, 172);
+}
+
 .text {
   margin-top: 0;
 }
